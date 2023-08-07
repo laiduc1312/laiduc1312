@@ -29,6 +29,7 @@ body {
   border-radius: 50px;
   margin: auto;
   border: 2px solid rgba(255, 255, 255, .2);
+  font-size: 20px;
 }
 
 .wrapper h1 {
